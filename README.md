@@ -25,16 +25,6 @@ Architecture
 ![](https://i.postimg.cc/QtD6LhRL/download.png)
 
 
-Prerequisites
-------------
 
-To complete the project successfully, you need to install:
-- [Android Studio](https://www.geeksforgeeks.org/guide-to-install-and-set-up-android-studio/)
-<!-- Google Cloud Platform -->
-<details>
-  <summary>Register On Google Cloud</summary>
   
-- [Link To Register For Cloud Account](https://cloud.google.com/)
-- [Signup Reference](https://www.youtube.com/watch?v=Oek2VE2ozzE&ab_channel=CodingFreaks)
-</details>
 
